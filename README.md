@@ -12,7 +12,7 @@ Welcome to my Github page! I am NKUlpj and I am currently Learning bioinformatic
  
 #### 🌱 Things I am currently working on 🌱 : 
 - Finish my Computer Engineering Master Degree
-- [My website](https://www.hwater.site) 🚀 *building*
+- [My website](http://bio.nankai.edu.cn) 🚀 *building*
  
  
 #### ⚡ Things recent ones I'm interested in ⚡ : 
@@ -23,8 +23,8 @@ Welcome to my Github page! I am NKUlpj and I am currently Learning bioinformatic
 - pix2pix
 #### 🌻 I am studying 🌻
 - IELTS
-- French
-- German
+- Java
+- Python
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=nkulpj&show_icons=true&hide_border=true" />
@@ -41,4 +41,4 @@ Welcome to my Github page! I am NKUlpj and I am currently Learning bioinformatic
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/broccolijs/broccolijs-ar21.svg"></code>
 </p>
 
-If you want to know more, please refer to the my [My website](https://www.hwater.site)
+If you want to know more, please refer to the my [My website](http://bio.nankai.edu.cn)
